@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 11
+Specification-Title: Jenkins Multijob plugin
+Specification-Version: 0.0
+Implementation-Title: Jenkins Multijob plugin
+Implementation-Version: 623.v03401733c9a_9
+Group-Id: org.jenkins-ci.plugins
+Short-Name: jenkins-multijob-plugin
+Long-Name: Jenkins Multijob plugin
+Url: https://github.com/jenkinsci/tikal-multijob-plugin/
+Plugin-Version: 623.v03401733c9a_9
+Hudson-Version: 2.346.1
+Jenkins-Version: 2.346.1
+Plugin-Dependencies: maven-plugin:3.4,built-on-column:1.1,conditional-bu
+ ildstep:1.3.3,copyartifact:1.44;resolution:=optional,envinject:1.91,jun
+ it:1119.1121.vc43d0fc45561,mailer:435.v79ef3972b_5c7,matrix-project:772
+ .v494f19991984;resolution:=optional,parameterized-trigger:2.25,token-ma
+ cro:308.v4f2b_ed62b_b_16
+Plugin-Developers: Itai Or:itaior:itai@tikalk.com,Chen Cohen:cohencil:ch
+ enc@tikalk.com,Yoram Michaeli:yorammi:yorammi@tikalk.com
+Plugin-License-Name: The MIT license
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/tikal-multijob-plugin.git
+

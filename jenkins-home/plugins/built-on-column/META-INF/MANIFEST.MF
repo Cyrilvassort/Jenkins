@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.346.3
+Implementation-Title: built-on-column
+Long-Name: built-on-column
+Implementation-Version: 1.3
+Group-Id: org.jenkins-ci.plugins
+Specification-Title: built-on-column
+Plugin-ScmUrl: https://github.com/jenkinsci/builton-column-plugin
+Plugin-Version: 1.3
+Jenkins-Version: 2.346.3
+Url: https://github.com/jenkinsci/built-on-column-plugin
+Short-Name: built-on-column
+Plugin-Developers: Henk van Voorthuijsen:voorth:voorth@xs4all.nl
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.6.0
+Specification-Version: 1.3
+
